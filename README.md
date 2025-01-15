@@ -1,1 +1,1 @@
-# shopping-clone
+# Myntra shopping website clone
